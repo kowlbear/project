@@ -5,7 +5,8 @@ Dart 에서 제공하는 api를 통하여 데이터를 수집 후 google Datastu
 ## 1. 데이터 흐름
   해당 데이터의 흐름은 다음과 같습니다.
   전자공시시스템(DART) -> opendart api를 통한 데이터 호출 -> python의 pands 및 gspread 라이브러리를 통하여 데이터 변환 및 저장 -> google looker studio(data studio)를 통한 Dashboard 구현
-  
+  ![image](https://github.com/kowlbear/project/assets/86779997/ff0e6dff-1c47-44ef-82c4-872ddc676058)
+
 
 ## 2. dashboard 구현
    아래 링크를 통하여 Dashboard를 구현하였습니다.[
