@@ -8,8 +8,8 @@ Dart 에서 제공하는 api를 통하여 데이터를 수집 후 google Datastu
   
 
 ## 2. dashboard 구현
-   아래 링크를 통하여 Dashboard를 구현하였습니다.
-   https://lookerstudio.google.com/reporting/7b488fb6-c7d5-431d-bdf5-5d00b05bb75d
+   아래 링크를 통하여 Dashboard를 구현하였습니다.[
+   https://lookerstudio.google.com/reporting/7b488fb6-c7d5-431d-bdf5-5d00b05bb75d](https://lookerstudio.google.com/reporting/7b488fb6-c7d5-431d-bdf5-5d00b05bb75d)
 ![image](https://github.com/kowlbear/project/assets/86779997/5d184bce-50de-44d7-813f-3b22392cc1b9)
 
    
