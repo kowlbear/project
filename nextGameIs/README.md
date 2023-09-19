@@ -39,13 +39,22 @@ Other_Sales : 기타지역에서의 출고량
 
 2010년 이후 제일 많이 팔린 게임은 GTA5이다.
 
-![image](https://github.com/kowlbear/project/assets/86779997/3312e259-e781-4d62-b28e-dad08470cb8f)
+![image](https://github.com/kowlbear/project/assets/86779997/5dff9869-d82d-4512-8653-d9f302277eaa)
 
 
-그러나 시리즈 판매량을 합산한다면 Call of duty 시리즈가 가장 많은 판매량을 보였다.
+![image](https://github.com/kowlbear/project/assets/86779997/25390d6b-c7fe-49e1-8618-e9afc28f3788)
+
+
+
+### 그러나 시리즈 판매량을 합산한다면 Call of duty 시리즈가 가장 많은 판매량을 보였다.
+
 이는 GTA5의 판매량보다 약 3배 많은 수치를 보였다.
 
-![image](https://user-images.githubusercontent.com/86779997/161793127-bb5aa72a-a5ef-4c54-8ff1-c983b398ec98.png)
+![image](https://github.com/kowlbear/project/assets/86779997/ff5c1ea4-8335-497b-a087-d9556188b2f6)
+
+![image](https://github.com/kowlbear/project/assets/86779997/51edbc5b-1898-4da1-84fa-87e0d4c4b1ad)
+
+
 
 아래는 해당 수치를 시각화한 자료이다.
 
